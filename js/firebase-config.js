@@ -1,11 +1,11 @@
 // ⚠️ REPLACE WITH YOUR FIREBASE CONFIG FROM FIREBASE CONSOLE
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyAzHiL2CtnEu0IXlJ3MZI_GNaOU38a6Ns0",
+  authDomain: "habit-tracker-e50a2.firebaseapp.com",
+  projectId: "habit-tracker-e50a2",
+  storageBucket: "habit-tracker-e50a2.firebasestorage.app",
+  messagingSenderId: "1034706899748",
+  appId: "1:1034706899748:web:41cd9a9ea7e08600ea99b1"
 };
 
 // Initialize Firebase
